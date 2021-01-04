@@ -21,3 +21,7 @@ yarn-error.log*
 
 .env
 dist
+
+# ide
+.idea
+.vscode
